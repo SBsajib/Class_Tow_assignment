@@ -1,0 +1,93 @@
+body{
+    margin: 8px; font-family: 'Roboto', sans-serif;
+}
+
+    .about_section{
+        background-color: #312F44;
+        color: white;
+        text-align: center;
+        padding-bottom: 50px; }
+
+        .about{
+            width: 600px;
+            
+            margin: auto;
+        }
+        .logo{
+            width: 100px;
+            margin-bottom: 30px;
+        }
+.shape1 {
+    display: block;
+    margin: autos;
+    margin: auto;
+    width: 60px;
+}
+
+        h1 {
+    margin: 0px;
+    text-transform: uppercase;
+    font-size: 55px;
+    line-height: 1.5cm;
+    font-style: oblique;
+    font-weight: 900;
+}
+.btn {
+    box-shadow: 0px 0px 12px 0px black;
+    text-decoration: none;
+    background-color: white;
+    padding: 10px 20px;
+    margin: 20px auto;
+    display: inline-block;
+    font-size: 19px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    background: rgb(255,165,0);
+background: linear-gradient(90deg, rgba(255,165,0,1) 0%, rgba(190,198,5,1) 100%);
+    color: white;
+    border: 50%;
+    /* width: 26%; */
+    border-radius: 50px;
+}
+p {
+    margin: 0;
+    font-size: 12px;
+    font-weight: 800;
+}
+.search{
+    margin: 20px auto;
+    width: 90%;
+}
+
+.best{color: #2bd191;
+
+}
+
+.bud{
+    color: rgb(255,165,0);
+}
+
+.post-box {
+    width: 800px;
+    margin: auto;
+    display: flex;
+    padding-top: 40px;
+
+}
+
+.post{padding: 20px;
+    border: 2px dashed red;
+    width: 50%;
+    text-align: left;
+
+}
+
+
+.post p{margin: 0;
+
+}
+h2{
+    margin: 0;
+    margin-bottom: 10px;
+}
+
